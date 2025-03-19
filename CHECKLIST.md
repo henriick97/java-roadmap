@@ -5,20 +5,20 @@
 ---
 
 ## 📚 **1) Lógica de Programação**
-- [ ] Estruturas de decisão (if, else, switch)
-- [ ] Laços de repetição (for, while, do-while)
-- [ ] Vetores e matrizes
-- [ ] Funções/métodos (criar e usar)
-- [ ] Fazer exercícios no Beecrowd ou HackerRank
+- [x] Estruturas de decisão (if, else, switch)
+- [x] Laços de repetição (for, while, do-while)
+- [x] Vetores e matrizes
+- [x] Funções/métodos (criar e usar)
+- [x] Fazer exercícios no Beecrowd ou HackerRank
 
 ---
 
 ## ☕ **2) Java Básico**
-- [ ] Tipos primitivos e variáveis
-- [ ] Operadores matemáticos e lógicos
-- [ ] Criar classes e objetos
-- [ ] Construtores
-- [ ] Getters e setters
+- [x] Tipos primitivos e variáveis
+- [x] Operadores matemáticos e lógicos
+- [x] Criar classes e objetos
+- [x] Construtores
+- [x] Getters e setters
 - [ ] Trabalhar com `ArrayList` e `Collections`
 - [ ] **Projeto prático:** Cadastro de produtos (adicionar, listar, remover)
 
