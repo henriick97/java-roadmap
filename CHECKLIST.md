@@ -19,7 +19,7 @@
 - [x] Criar classes e objetos
 - [x] Construtores
 - [x] Getters e setters
-- [ ] Trabalhar com `ArrayList` e `Collections`
+- [x] Trabalhar com `ArrayList` e `Collections`
 - [ ] **Projeto prático:** Cadastro de produtos (adicionar, listar, remover)
 
 ---
