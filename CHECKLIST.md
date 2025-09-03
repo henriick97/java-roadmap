@@ -27,7 +27,7 @@
 ## 🧩 **3) Orientação a Objetos (POO)**
 - [x] Herança
 - [x] Polimorfismo
-- [ ] Interface
+- [x] Interface
 - [x] Sobrescrita e sobrecarga
 - [ ] **Projeto prático:** Sistema de cadastro de alunos, professores e disciplinas
 
